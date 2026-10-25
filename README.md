@@ -1,0 +1,2 @@
+# stdk
+just for easy
